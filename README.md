@@ -1,5 +1,5 @@
 # Live Clock In Python
-## By [Luis Viegas](https://github.com/LuisRamosOfficial) 
+## By [Luis Ramos](https://github.com/LuisRamosOfficial) 
 This project was made with Tkinter and the timedate library from Python 3.10
 
 
